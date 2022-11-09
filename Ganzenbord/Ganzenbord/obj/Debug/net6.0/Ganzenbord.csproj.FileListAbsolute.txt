@@ -1,0 +1,15 @@
+C:\Users\Bruno\source\repos\Ganzenbord\Ganzenbord\bin\Debug\net6.0\Ganzenbord.exe
+C:\Users\Bruno\source\repos\Ganzenbord\Ganzenbord\bin\Debug\net6.0\Ganzenbord.deps.json
+C:\Users\Bruno\source\repos\Ganzenbord\Ganzenbord\bin\Debug\net6.0\Ganzenbord.runtimeconfig.json
+C:\Users\Bruno\source\repos\Ganzenbord\Ganzenbord\bin\Debug\net6.0\Ganzenbord.dll
+C:\Users\Bruno\source\repos\Ganzenbord\Ganzenbord\bin\Debug\net6.0\Ganzenbord.pdb
+C:\Users\Bruno\source\repos\Ganzenbord\Ganzenbord\obj\Debug\net6.0\Ganzenbord.csproj.AssemblyReference.cache
+C:\Users\Bruno\source\repos\Ganzenbord\Ganzenbord\obj\Debug\net6.0\Ganzenbord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\source\repos\Ganzenbord\Ganzenbord\obj\Debug\net6.0\Ganzenbord.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\Ganzenbord\Ganzenbord\obj\Debug\net6.0\Ganzenbord.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\Ganzenbord\Ganzenbord\obj\Debug\net6.0\Ganzenbord.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\Ganzenbord\Ganzenbord\obj\Debug\net6.0\Ganzenbord.dll
+C:\Users\Bruno\source\repos\Ganzenbord\Ganzenbord\obj\Debug\net6.0\refint\Ganzenbord.dll
+C:\Users\Bruno\source\repos\Ganzenbord\Ganzenbord\obj\Debug\net6.0\Ganzenbord.pdb
+C:\Users\Bruno\source\repos\Ganzenbord\Ganzenbord\obj\Debug\net6.0\Ganzenbord.genruntimeconfig.cache
+C:\Users\Bruno\source\repos\Ganzenbord\Ganzenbord\obj\Debug\net6.0\ref\Ganzenbord.dll
